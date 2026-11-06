@@ -23,7 +23,15 @@
 - `styles.css` — стили в духе [Школы 21](https://21-school.ru/) (тёмный фон, лаймовый акцент, крупная типографика)
 - `script.js` — мобильное меню, sticky-хедер, появление блоков при скролле
 
-## Как открыть
+## Сайт
+
+После включения GitHub Pages лендинг будет доступен по адресу:
+
+**https://thedatatrickster.github.io/club-projects/**
+
+Включить: [Settings → Pages](https://github.com/TheDataTrickster/club-projects/settings/pages) → Source: **Deploy from a branch** → Branch: **main** → Folder: **/ (root)** → Save.
+
+## Как открыть локально
 
 Из корня проекта:
 
